@@ -1,0 +1,9 @@
+Json {
+  key:axeronCode = 20240601;
+  key:title = "UPDATE";
+  key:subtitle = "You need update";
+  key:btnVisible = true;
+  key:btnText = "Update";
+  key:url = "https://www.instagram.com/lucifer_xrifan/16";
+  key:cancelable = false;
+}
